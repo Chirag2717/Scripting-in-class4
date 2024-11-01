@@ -1,3 +1,6 @@
+# Author: [Chirag Khurana-100949693 and Saquib Ahmed Khan-100949697]
+# Date: [01 November 2024]
+
 import json
 
 def get_valid_cpu_requirements():
